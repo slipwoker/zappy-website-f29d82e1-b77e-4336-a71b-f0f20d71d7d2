@@ -1,0 +1,85 @@
+# אתר שמעבירים כסף בלי כרטיס אשראי — Generative Engine Optimization Map
+
+> A Hebrew-language platform that allows users to connect with friends and hold video meetings (similar to Zoom), with a unique focus on cash-based payments — no credit card required. The platform aims to be inclusive and accessible for users who prefer or only have access to cash transactions, combining social video communication with a cash-friendly payment system.
+
+---
+
+## Pages
+
+### בית
+https://-f29d82e1.zappy5.app
+גלו עולם שבו שיחות וידאו ופגישות חברתיות פוגשות תשלום מזומן אונליין בישראל. התחברו לחברים בקלות, שלמו במזומן בלי כרטיס אשראי, ותיהנו מחוויה כוללת שמתאימה לכולם. הצטרפו עכשיו!
+
+### תכונות
+https://-f29d82e1.zappy5.app/features
+תכונות חכמות שמאפשרות לכם לקיים שיחות וידאו חינם בלי כרטיס ולהעביר תשלומי מזומן אונליין בקליק. מכלים אינטואיטיביים ועד אבטחה מתקדמת, גלו איך הפכנו את החוויה לנוחה ומאובטחת. התחילו לחקור!
+
+### אודות
+https://-f29d82e1.zappy5.app/about
+הכירו את החזון שמאחורי אתר שמעבירים כסף בלי כרטיס אשראי: חיבור בין אנשים דרך שיחות וידאו איכותיות, ללא תלות באשראי. אנחנו מחויבים להנגשת תשלום מזומן אונליין בישראל לכולם. גלו את הסיפור שלנו!
+
+### צור קשר
+https://-f29d82e1.zappy5.app/contact
+יש לכם שאלה על תשלום מזומן אונליין ישראל או על שיחות וידאו חינם בלי כרטיס? צרו קשר איתנו עוד היום! אנחנו כאן לעזור לכם להעביר כסף בלי כרטיס אשראי ולהפיק את המרב מהפלטפורמה. שלחו הודעה עכשיו!
+
+### Products
+https://-f29d82e1.zappy5.app/products
+המוצרים שלנו - אתר שמעבירים כסף בלי כרטיס אשראי
+
+### Product Detail
+https://-f29d82e1.zappy5.app/product/:slug
+פרטי המוצר - אתר שמעבירים כסף בלי כרטיס אשראי
+
+### Category
+https://-f29d82e1.zappy5.app/category/:slug
+מוצרים - אתר שמעבירים כסף בלי כרטיס אשראי
+
+### תודה שפניתם אלינו
+https://-f29d82e1.zappy5.app/thank-you
+אתר שמעבירים כסף בלי כרטיס אשראי - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f29d82e1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f29d82e1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f29d82e1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אתר שמעבירים כסף בלי כרטיס אשראי
+A Hebrew-language platform that allows users to connect with friends and hold video meetings (similar to Zoom), with a unique focus on cash-based payments — no credit card required. The platform aims to be inclusive and accessible for users who prefer or only have access to cash transactions, combining social video communication with a cash-friendly payment system.
+
+## Target Audience
+- אנשים שאין להם כרטיס אשראי, משתמשי מזומן
+- משתמשי מזומן טכנולוגיים
+- צעירים ללא כרטיס אשראי
+- בעלי עסקים קטנים ממוקדי מזומן
+
+## Industry
+Fintech / Video Conferencing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f29d82e1.zappy5.app/sitemap.xml
+- Robots: https://-f29d82e1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f29d82e1.zappy5.app/llms-full.txt
+- Products (JSON): https://-f29d82e1.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-f29d82e1.zappy5.app/product-feed.xml
