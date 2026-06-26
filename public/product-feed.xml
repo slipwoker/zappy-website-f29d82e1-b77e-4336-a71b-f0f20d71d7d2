@@ -4,6 +4,18 @@
     <title>אתר שמעבירים כסף בלי כרטיס אשראי</title>
     <link>https://example.com</link>
     <description>Product feed for אתר שמעבירים כסף בלי כרטיס אשראי</description>
-    <lastBuildDate>Fri, 26 Jun 2026 09:37:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:41:21 GMT</lastBuildDate>
+    <item>
+      <g:id>2ceb23dc-de64-44fb-b93c-8baed28caa46</g:id>
+      <g:title>55857</g:title>
+      <g:description>55857</g:description>
+      <g:link>https://example.com/product/55857-q0mtrs</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>515.00 ILS</g:price>
+      <g:sale_price>100.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>אתר שמעבירים כסף בלי כרטיס אשראי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

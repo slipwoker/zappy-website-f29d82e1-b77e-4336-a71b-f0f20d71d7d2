@@ -56,7 +56,12 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### 55857
+https://example.com/product/55857-q0mtrs
+- Price: 100.00 ILS (sale, was 515.00 ILS)
+- Availability: In stock
 
 ---
 

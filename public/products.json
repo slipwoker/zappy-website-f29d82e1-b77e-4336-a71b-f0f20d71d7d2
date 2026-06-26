@@ -1,8 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-26T09:37:21.858Z",
+  "generated_at": "2026-06-26T09:41:21.164Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "2ceb23dc-de64-44fb-b93c-8baed28caa46",
+      "slug": "55857-q0mtrs",
+      "name": "55857",
+      "name_translations": {
+        "en": "55857",
+        "he": "55857"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 515,
+      "sale_price": 100,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/55857-q0mtrs",
+      "categories": [],
+      "updated_at": "2026-06-26T09:40:35.724Z"
+    }
+  ]
 }
